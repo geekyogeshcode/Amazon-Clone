@@ -199,6 +199,7 @@ span{
     background-color: white;
     padding: 20px 0px 15px ;             /* top left-right bottom*/
     border: none;
+    cursor: pointer;
 
 }
 
